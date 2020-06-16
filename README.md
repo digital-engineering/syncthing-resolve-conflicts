@@ -34,8 +34,6 @@
 ### Depends on:
 - find
 
-### Syncthing Resolve Conflict: https://github.com/digital-engineering/syncthing-resolve-conflicts
-
 
 ### Description
 
