@@ -24,7 +24,7 @@
 
 # syncthing-resolve-conflicts
 
-## Script for deleting duplicate `\*sync-conflict\*` files created by Syncthing.
+## Script for deleting duplicate `*sync-conflict*` files created by Syncthing.
 
 ### Usage:
 ```
